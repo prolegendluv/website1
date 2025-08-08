@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: website1
+owner: prolegendluv
+package: .
